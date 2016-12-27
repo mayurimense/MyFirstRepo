@@ -12,4 +12,8 @@ change -4
 
 change -5!!!!
 
+<<<<<<< HEAD
 Before change 6 added
+=======
+chnage 6
+>>>>>>> bug888
